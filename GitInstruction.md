@@ -11,8 +11,16 @@
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
+Загружаем последнюю версию Git с сайта https://git-scm.com/downloads . Устанавливаем с настройками по умолчанию
 
 #### Первая настройка git
+1.  *Для регистраци  набрать*
+   - git config ­­global user.name "Cherevichenko Sergey" 
+   - git config ­­global user.email cherevichenkosn@gmail.com
+ 2. *Для проверки установлен ли git и проверки версии набрать*
+   - git --version
+ 3. *Для инициализации git выбрать папку и набрать*
+    - git init ()  
 
 1.  *Для регистраци  набрать*
    - git config ­­global user.name "Cherevichenko Sergey" 
